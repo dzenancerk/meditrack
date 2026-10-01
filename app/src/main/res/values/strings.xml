@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MediTrack</string>
+    <string name="google_client_id" translatable="false">330685899236-7h2ijpavskq13vmpmprshkd2433mke7p.apps.googleusercontent.com</string>
+</resources>
